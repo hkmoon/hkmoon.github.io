@@ -1,0 +1,2554 @@
+[
+  {"from":"Myers", "image":"myers.png", "color":"rgb(105,182,218)"},
+  {"from":"Hyman", "image":"hyman.png", "color":"rgb(130,105,218)"},
+  {"from":"Alberti", "image":"alberti.png", "color":"rgb(218,105,205)"},
+  {"from":"Jug", "image":"jug.png", "color":"rgb(218,107,105)"},
+  {"from":"Scientific Computing Facility", "image":"scicomp.png", "color":"rgb(218,209,105)"},
+  {"from":"Genome Engineering Facility", "image":"gef.png", "color":"rgb(125,218,105)"},
+
+  {
+    "from": "Microarray DNA Facility",
+    "to": "Huttner",
+    "value": 2
+  },
+  {
+    "from": "Light Microscopy Facility",
+    "to": "Diez",
+    "value": 3
+  },
+  {
+    "from": "Media Technology and Outreach",
+    "to": "Huisken",
+    "value": 2
+  },
+  {
+    "from": "Huisken",
+    "to": "Fish Facility",
+    "value": 2
+  },
+  {
+    "from": "Vastenhouw",
+    "to": "Biomedical Services",
+    "value": 2
+  },
+  {
+    "from": "Rink",
+    "to": "Fish Facility",
+    "value": 2
+  },
+  {
+    "from": "Hiller",
+    "to": "FACS Facility",
+    "value": 1
+  },
+  {
+    "from": "Tomancak",
+    "to": "Antibody Facility",
+    "value": 1
+  },
+  {
+    "from": "Norden",
+    "to": "Fish Facility",
+    "value": 9
+  },
+  {
+    "from": "Media Technology and Outreach",
+    "to": "Diez",
+    "value": 1
+  },
+  {
+    "from": "Light Microscopy Facility",
+    "to": "Huisken",
+    "value": 4
+  },
+  {
+    "from": "Myers",
+    "to": "Computer Department",
+    "value": 2
+  },
+  {
+    "from": "Zechner",
+    "to": "DNA Sequencing",
+    "value": 1
+  },
+  {
+    "from": "Scientific Computing Facility",
+    "to": "Biomedical Services",
+    "value": 12
+  },
+  {
+    "from": "Sbalzarini",
+    "to": "Protein Expression",
+    "value": 1
+  },
+  {
+    "from": "Jug",
+    "to": "Advanced Imaging Facility",
+    "value": 1
+  },
+  {
+    "from": "Vastenhouw",
+    "to": "DNA Sequencing",
+    "value": 1
+  },
+  {
+    "from": "EM Facility",
+    "to": "Antibody Facility",
+    "value": 3
+  },
+  {
+    "from": "Eaton",
+    "to": "Biomedical Services",
+    "value": 1
+  },
+  {
+    "from": "Sbalzarini",
+    "to": "EM Facility",
+    "value": 1
+  },
+  {
+    "from": "Zerial",
+    "to": "Computer Department",
+    "value": 1
+  },
+  {
+    "from": "Protein Expression",
+    "to": "Pigino",
+    "value": 2
+  },
+  {
+    "from": "Technology Development Studio TDS",
+    "to": "Scientific Computing Facility",
+    "value": 5
+  },
+  {
+    "from": "Hiller",
+    "to": "Chromatography",
+    "value": 1
+  },
+  {
+    "from": "Computer Department",
+    "to": "Biomedical Services",
+    "value": 2
+  },
+  {
+    "from": "Scientific Computing Facility",
+    "to": "DNA Sequencing",
+    "value": 8
+  },
+  {
+    "from": "Protein Expression",
+    "to": "Antibody Facility",
+    "value": 11
+  },
+  {
+    "from": "Pigino",
+    "to": "Cell Technology",
+    "value": 1
+  },
+  {
+    "from": "Technology Development Studio TDS",
+    "to": "Computer Department",
+    "value": 1
+  },
+  {
+    "from": "Zerial",
+    "to": "Scientific Computing Facility",
+    "value": 2
+  },
+  {
+    "from": "Mass Spectrometry",
+    "to": "EM Facility",
+    "value": 2
+  },
+  {
+    "from": "Scientific Computing Facility",
+    "to": "Hiller",
+    "value": 5
+  },
+  {
+    "from": "Howard",
+    "to": "Chromatography",
+    "value": 1
+  },
+  {
+    "from": "Technology Development Studio TDS",
+    "to": "FACS Facility",
+    "value": 6
+  },
+  {
+    "from": "Myers",
+    "to": "Chromatography",
+    "value": 1
+  },
+  {
+    "from": "Technology Development Studio TDS",
+    "to": "Kurzchalia",
+    "value": 1
+  },
+  {
+    "from": "Kurzchalia",
+    "to": "Huttner",
+    "value": 1
+  },
+  {
+    "from": "Zechner",
+    "to": "Genome Engineering Facility",
+    "value": 1
+  },
+  {
+    "from": "Genome Engineering Facility",
+    "to": "EM Facility",
+    "value": 2
+  },
+  {
+    "from": "Light Microscopy Facility",
+    "to": "Howard",
+    "value": 1
+  },
+  {
+    "from": "Zerial",
+    "to": "FACS Facility",
+    "value": 2
+  },
+  {
+    "from": "Honigmann",
+    "to": "Genome Engineering Facility",
+    "value": 2
+  },
+  {
+    "from": "Hyman",
+    "to": "Brugues",
+    "value": 1
+  },
+  {
+    "from": "Zerial",
+    "to": "Kurzchalia",
+    "value": 2
+  },
+  {
+    "from": "Treutlein",
+    "to": "Protein Expression",
+    "value": 1
+  },
+  {
+    "from": "Knust",
+    "to": "Image Processing Facility",
+    "value": 1
+  },
+  {
+    "from": "Scientific Computing Facility",
+    "to": "Mass Spectrometry",
+    "value": 2
+  },
+  {
+    "from": "Technology Development Studio TDS",
+    "to": "Alberti",
+    "value": 7
+  },
+  {
+    "from": "Vastenhouw",
+    "to": "Rink",
+    "value": 1
+  },
+  {
+    "from": "Myers",
+    "to": "FACS Facility",
+    "value": 1
+  },
+  {
+    "from": "Rink",
+    "to": "Protein Expression",
+    "value": 2
+  },
+  {
+    "from": "Technology Development Studio TDS",
+    "to": "Chromatography",
+    "value": 3
+  },
+  {
+    "from": "Scientific Computing Facility",
+    "to": "Genome Engineering Facility",
+    "value": 6
+  },
+  {
+    "from": "Rink",
+    "to": "EM Facility",
+    "value": 1
+  },
+  {
+    "from": "Hiller",
+    "to": "Computer Department",
+    "value": 24
+  },
+  {
+    "from": "Zerial",
+    "to": "Chromatography",
+    "value": 1
+  },
+  {
+    "from": "Scientific Computing Facility",
+    "to": "Rink",
+    "value": 7
+  },
+  {
+    "from": "DNA Sequencing",
+    "to": "Computer Department",
+    "value": 4
+  },
+  {
+    "from": "Transgenic Core Facility",
+    "to": "Antibody Facility",
+    "value": 1
+  },
+  {
+    "from": "Myers",
+    "to": "Alberti",
+    "value": 1
+  },
+  {
+    "from": "Vastenhouw",
+    "to": "Jug",
+    "value": 1
+  },
+  {
+    "from": "Microarray DNA Facility",
+    "to": "Biomedical Services",
+    "value": 4
+  },
+  {
+    "from": "Tomancak",
+    "to": "Microarray DNA Facility",
+    "value": 1
+  },
+  {
+    "from": "Kreysing",
+    "to": "Grill",
+    "value": 2
+  },
+  {
+    "from": "Vastenhouw",
+    "to": "Huttner",
+    "value": 1
+  },
+  {
+    "from": "Protein Expression",
+    "to": "Knust",
+    "value": 2
+  },
+  {
+    "from": "Tomancak",
+    "to": "Hyman",
+    "value": 1
+  },
+  {
+    "from": "Protein Expression",
+    "to": "Nadler",
+    "value": 1
+  },
+  {
+    "from": "Myers",
+    "to": "EM Facility",
+    "value": 1
+  },
+  {
+    "from": "Grill",
+    "to": "Diez",
+    "value": 2
+  },
+  {
+    "from": "Zerial",
+    "to": "Transgenic Core Facility",
+    "value": 2
+  },
+  {
+    "from": "Nadler",
+    "to": "Mass Spectrometry",
+    "value": 3
+  },
+  {
+    "from": "Scientific Computing Facility",
+    "to": "Image Processing Facility",
+    "value": 1
+  },
+  {
+    "from": "Scientific Computing Facility",
+    "to": "Jug",
+    "value": 2
+  },
+  {
+    "from": "Cell Technology",
+    "to": "Biomedical Services",
+    "value": 3
+  },
+  {
+    "from": "Shevchenko",
+    "to": "Light Microscopy Facility",
+    "value": 5
+  },
+  {
+    "from": "Light Microscopy Facility",
+    "to": "Library",
+    "value": 1
+  },
+  {
+    "from": "Tang",
+    "to": "Alberti",
+    "value": 1
+  },
+  {
+    "from": "Light Microscopy Facility",
+    "to": "Advanced Imaging Facility",
+    "value": 1
+  },
+  {
+    "from": "Scientific Computing Facility",
+    "to": "Huttner",
+    "value": 12
+  },
+  {
+    "from": "Diez",
+    "to": "Chromatography",
+    "value": 1
+  },
+  {
+    "from": "Protein Expression",
+    "to": "Microarray DNA Facility",
+    "value": 4
+  },
+  {
+    "from": "Diez",
+    "to": "Alberti",
+    "value": 1
+  },
+  {
+    "from": "Microarray DNA Facility",
+    "to": "Hiller",
+    "value": 2
+  },
+  {
+    "from": "Zerial",
+    "to": "Tomancak",
+    "value": 2
+  },
+  {
+    "from": "Technology Development Studio TDS",
+    "to": "Protein Expression",
+    "value": 11
+  },
+  {
+    "from": "Genome Engineering Facility",
+    "to": "FACS Facility",
+    "value": 5
+  },
+  {
+    "from": "Knust",
+    "to": "Genome Engineering Facility",
+    "value": 1
+  },
+  {
+    "from": "Protein Expression",
+    "to": "Hyman",
+    "value": 19
+  },
+  {
+    "from": "Tomancak",
+    "to": "Knust",
+    "value": 4
+  },
+  {
+    "from": "Microarray DNA Facility",
+    "to": "DNA Sequencing",
+    "value": 5
+  },
+  {
+    "from": "Protein Expression",
+    "to": "Cell Technology",
+    "value": 3
+  },
+  {
+    "from": "Technology Development Studio TDS",
+    "to": "EM Facility",
+    "value": 4
+  },
+  {
+    "from": "Kurzchalia",
+    "to": "Genome Engineering Facility",
+    "value": 3
+  },
+  {
+    "from": "Zerial",
+    "to": "Protein Expression",
+    "value": 4
+  },
+  {
+    "from": "Media Technology and Outreach",
+    "to": "Light Microscopy Facility",
+    "value": 4
+  },
+  {
+    "from": "EM Facility",
+    "to": "Cell Technology",
+    "value": 1
+  },
+  {
+    "from": "Hyman",
+    "to": "DNA Sequencing",
+    "value": 1
+  },
+  {
+    "from": "Zerial",
+    "to": "EM Facility",
+    "value": 8
+  },
+  {
+    "from": "Sbalzarini",
+    "to": "Computer Department",
+    "value": 1
+  },
+  {
+    "from": "Vastenhouw",
+    "to": "Shevchenko",
+    "value": 2
+  },
+  {
+    "from": "FACS Facility",
+    "to": "Biomedical Services",
+    "value": 6
+  },
+  {
+    "from": "Sbalzarini",
+    "to": "FACS Facility",
+    "value": 1
+  },
+  {
+    "from": "Zerial",
+    "to": "Fish Facility",
+    "value": 1
+  },
+  {
+    "from": "Diez",
+    "to": "Computer Department",
+    "value": 1
+  },
+  {
+    "from": "Kurzchalia",
+    "to": "Biomedical Services",
+    "value": 2
+  },
+  {
+    "from": "Simons",
+    "to": "Scientific Computing Facility",
+    "value": 1
+  },
+  {
+    "from": "Paluch",
+    "to": "Light Microscopy Facility",
+    "value": 1
+  },
+  {
+    "from": "Treutlein",
+    "to": "Scientific Computing Facility",
+    "value": 1
+  },
+  {
+    "from": "Mass Spectrometry",
+    "to": "Kurzchalia",
+    "value": 3
+  },
+  {
+    "from": "Technology Development Studio TDS",
+    "to": "Fish Facility",
+    "value": 2
+  },
+  {
+    "from": "Tomancak",
+    "to": "Eaton",
+    "value": 1
+  },
+  {
+    "from": "Genome Engineering Facility",
+    "to": "Computer Department",
+    "value": 1
+  },
+  {
+    "from": "Transgenic Core Facility",
+    "to": "Hyman",
+    "value": 1
+  },
+  {
+    "from": "Transgenic Core Facility",
+    "to": "Cell Technology",
+    "value": 2
+  },
+  {
+    "from": "Light Microscopy Facility",
+    "to": "Grill",
+    "value": 5
+  },
+  {
+    "from": "Transgenic Core Facility",
+    "to": "Microarray DNA Facility",
+    "value": 1
+  },
+  {
+    "from": "FACS Facility",
+    "to": "DNA Sequencing",
+    "value": 3
+  },
+  {
+    "from": "Huisken",
+    "to": "Computer Department",
+    "value": 3
+  },
+  {
+    "from": "Hyman",
+    "to": "Genome Engineering Facility",
+    "value": 3
+  },
+  {
+    "from": "Norden",
+    "to": "Modes",
+    "value": 1
+  },
+  {
+    "from": "Tang",
+    "to": "Scientific Computing Facility",
+    "value": 2
+  },
+  {
+    "from": "Mass Spectrometry",
+    "to": "Chromatography",
+    "value": 1
+  },
+  {
+    "from": "Myers",
+    "to": "Fish Facility",
+    "value": 2
+  },
+  {
+    "from": "Protein Expression",
+    "to": "Honigmann",
+    "value": 3
+  },
+  {
+    "from": "Scientific Computing Facility",
+    "to": "Kreysing",
+    "value": 3
+  },
+  {
+    "from": "Norden",
+    "to": "Computer Department",
+    "value": 1
+  },
+  {
+    "from": "Microarray DNA Facility",
+    "to": "Genome Engineering Facility",
+    "value": 2
+  },
+  {
+    "from": "Knust",
+    "to": "DNA Sequencing",
+    "value": 6
+  },
+  {
+    "from": "Rink",
+    "to": "Computer Department",
+    "value": 3
+  },
+  {
+    "from": "Paluch",
+    "to": "Fish Facility",
+    "value": 1
+  },
+  {
+    "from": "Howard",
+    "to": "Grill",
+    "value": 1
+  },
+  {
+    "from": "Tomancak",
+    "to": "DNA Sequencing",
+    "value": 2
+  },
+  {
+    "from": "Microarray DNA Facility",
+    "to": "Knust",
+    "value": 1
+  },
+  {
+    "from": "Myers",
+    "to": "Advanced Imaging Facility",
+    "value": 1
+  },
+  {
+    "from": "Transgenic Core Facility",
+    "to": "Mass Spectrometry",
+    "value": 1
+  },
+  {
+    "from": "Zerial",
+    "to": "Light Microscopy Facility",
+    "value": 22
+  },
+  {
+    "from": "Protein Expression",
+    "to": "Biomedical Services",
+    "value": 3
+  },
+  {
+    "from": "Computer Department",
+    "to": "Antibody Facility",
+    "value": 1
+  },
+  {
+    "from": "Rink",
+    "to": "Myers",
+    "value": 4
+  },
+  {
+    "from": "Light Microscopy Facility",
+    "to": "EM Facility",
+    "value": 23
+  },
+  {
+    "from": "Norden",
+    "to": "Myers",
+    "value": 1
+  },
+  {
+    "from": "Technology Development Studio TDS",
+    "to": "Light Microscopy Facility",
+    "value": 14
+  },
+  {
+    "from": "EM Facility",
+    "to": "Biomedical Services",
+    "value": 4
+  },
+  {
+    "from": "Pigino",
+    "to": "Jug",
+    "value": 1
+  },
+  {
+    "from": "Scientific Computing Facility",
+    "to": "Antibody Facility",
+    "value": 3
+  },
+  {
+    "from": "Protein Expression",
+    "to": "DNA Sequencing",
+    "value": 4
+  },
+  {
+    "from": "Microarray DNA Facility",
+    "to": "Hyman",
+    "value": 2
+  },
+  {
+    "from": "Technology Development Studio TDS",
+    "to": "Advanced Imaging Facility",
+    "value": 1
+  },
+  {
+    "from": "Shevchenko",
+    "to": "Protein Expression",
+    "value": 4
+  },
+  {
+    "from": "Knust",
+    "to": "Eaton",
+    "value": 1
+  },
+  {
+    "from": "Huttner",
+    "to": "Computer Department",
+    "value": 1
+  },
+  {
+    "from": "Nadler",
+    "to": "Honigmann",
+    "value": 1
+  },
+  {
+    "from": "Shevchenko",
+    "to": "EM Facility",
+    "value": 3
+  },
+  {
+    "from": "Nadler",
+    "to": "Eaton",
+    "value": 1
+  },
+  {
+    "from": "Protein Expression",
+    "to": "Hiller",
+    "value": 3
+  },
+  {
+    "from": "Tomancak",
+    "to": "Biomedical Services",
+    "value": 1
+  },
+  {
+    "from": "EM Facility",
+    "to": "DNA Sequencing",
+    "value": 1
+  },
+  {
+    "from": "Treutlein",
+    "to": "Technology Development Studio TDS",
+    "value": 1
+  },
+  {
+    "from": "Myers",
+    "to": "Light Microscopy Facility",
+    "value": 11
+  },
+  {
+    "from": "Transgenic Core Facility",
+    "to": "Genome Engineering Facility",
+    "value": 3
+  },
+  {
+    "from": "Jug",
+    "to": "Computer Department",
+    "value": 2
+  },
+  {
+    "from": "Transgenic Core Facility",
+    "to": "Biomedical Services",
+    "value": 10
+  },
+  {
+    "from": "Tomancak",
+    "to": "Rink",
+    "value": 1
+  },
+  {
+    "from": "Zerial",
+    "to": "Grill",
+    "value": 1
+  },
+  {
+    "from": "Protein Expression",
+    "to": "Mass Spectrometry",
+    "value": 7
+  },
+  {
+    "from": "PhD Office",
+    "to": "Howard",
+    "value": 1
+  },
+  {
+    "from": "Sbalzarini",
+    "to": "Myers",
+    "value": 2
+  },
+  {
+    "from": "Shevchenko",
+    "to": "Fish Facility",
+    "value": 1
+  },
+  {
+    "from": "Grill",
+    "to": "Chromatography",
+    "value": 2
+  },
+  {
+    "from": "Huttner",
+    "to": "FACS Facility",
+    "value": 5
+  },
+  {
+    "from": "Tomancak",
+    "to": "Genome Engineering Facility",
+    "value": 3
+  },
+  {
+    "from": "Rink",
+    "to": "Office of Research Grants",
+    "value": 1
+  },
+  {
+    "from": "Technology Development Studio TDS",
+    "to": "Grill",
+    "value": 1
+  },
+  {
+    "from": "Rink",
+    "to": "Norden",
+    "value": 1
+  },
+  {
+    "from": "FACS Facility",
+    "to": "Cell Technology",
+    "value": 2
+  },
+  {
+    "from": "Transgenic Core Facility",
+    "to": "Hiller",
+    "value": 1
+  },
+  {
+    "from": "Hyman",
+    "to": "Eaton",
+    "value": 1
+  },
+  {
+    "from": "Transgenic Core Facility",
+    "to": "DNA Sequencing",
+    "value": 5
+  },
+  {
+    "from": "Hyman",
+    "to": "Honigmann",
+    "value": 3
+  },
+  {
+    "from": "Grill",
+    "to": "Alberti",
+    "value": 3
+  },
+  {
+    "from": "Light Microscopy Facility",
+    "to": "Fish Facility",
+    "value": 19
+  },
+  {
+    "from": "Kurzchalia",
+    "to": "Hyman",
+    "value": 2
+  },
+  {
+    "from": "Protein Expression",
+    "to": "Genome Engineering Facility",
+    "value": 3
+  },
+  {
+    "from": "Microarray DNA Facility",
+    "to": "Eaton",
+    "value": 1
+  },
+  {
+    "from": "Mass Spectrometry",
+    "to": "Howard",
+    "value": 1
+  },
+  {
+    "from": "Media Technology and Outreach",
+    "to": "Fish Facility",
+    "value": 1
+  },
+  {
+    "from": "Myers",
+    "to": "Grill",
+    "value": 1
+  },
+  {
+    "from": "Light Microscopy Facility",
+    "to": "Computer Department",
+    "value": 7
+  },
+  {
+    "from": "Kreysing",
+    "to": "Alberti",
+    "value": 3
+  },
+  {
+    "from": "Technology Development Studio TDS",
+    "to": "Sbalzarini",
+    "value": 1
+  },
+  {
+    "from": "Mass Spectrometry",
+    "to": "Light Microscopy Facility",
+    "value": 8
+  },
+  {
+    "from": "Protein Expression",
+    "to": "Eckmann",
+    "value": 2
+  },
+  {
+    "from": "Protein Expression",
+    "to": "Huttner",
+    "value": 3
+  },
+  {
+    "from": "Honigmann",
+    "to": "Cell Technology",
+    "value": 1
+  },
+  {
+    "from": "Zerial",
+    "to": "Sbalzarini",
+    "value": 3
+  },
+  {
+    "from": "Media Technology and Outreach",
+    "to": "Computer Department",
+    "value": 2
+  },
+  {
+    "from": "Zechner",
+    "to": "Hyman",
+    "value": 1
+  },
+  {
+    "from": "Scientific Computing Facility",
+    "to": "Nadler",
+    "value": 2
+  },
+  {
+    "from": "Scientific Computing Facility",
+    "to": "Knust",
+    "value": 5
+  },
+  {
+    "from": "Grill",
+    "to": "EM Facility",
+    "value": 1
+  },
+  {
+    "from": "Kreysing",
+    "to": "FACS Facility",
+    "value": 2
+  },
+  {
+    "from": "Sbalzarini",
+    "to": "Light Microscopy Facility",
+    "value": 5
+  },
+  {
+    "from": "Transgenic Core Facility",
+    "to": "Kreysing",
+    "value": 2
+  },
+  {
+    "from": "Tomancak",
+    "to": "Image Processing Facility",
+    "value": 1
+  },
+  {
+    "from": "Cell Technology",
+    "to": "Antibody Facility",
+    "value": 1
+  },
+  {
+    "from": "Tomancak",
+    "to": "Jug",
+    "value": 6
+  },
+  {
+    "from": "Office of Research Grants",
+    "to": "Light Microscopy Facility",
+    "value": 1
+  },
+  {
+    "from": "Hyman",
+    "to": "Antibody Facility",
+    "value": 4
+  },
+  {
+    "from": "Shevchenko",
+    "to": "Scientific Computing Facility",
+    "value": 6
+  },
+  {
+    "from": "Tomancak",
+    "to": "Huttner",
+    "value": 2
+  },
+  {
+    "from": "Scientific Computing Facility",
+    "to": "Microarray DNA Facility",
+    "value": 2
+  },
+  {
+    "from": "Zerial",
+    "to": "Norden",
+    "value": 1
+  },
+  {
+    "from": "Zechner",
+    "to": "Knust",
+    "value": 1
+  },
+  {
+    "from": "Huttner",
+    "to": "EM Facility",
+    "value": 1
+  },
+  {
+    "from": "Scientific Computing Facility",
+    "to": "Hyman",
+    "value": 8
+  },
+  {
+    "from": "Technology Development Studio TDS",
+    "to": "Diez",
+    "value": 1
+  },
+  {
+    "from": "Eckmann",
+    "to": "EM Facility",
+    "value": 1
+  },
+  {
+    "from": "PhD Office",
+    "to": "Light Microscopy Facility",
+    "value": 1
+  },
+  {
+    "from": "Microarray DNA Facility",
+    "to": "Antibody Facility",
+    "value": 2
+  },
+  {
+    "from": "Scientific Computing Facility",
+    "to": "Cell Technology",
+    "value": 3
+  },
+  {
+    "from": "Chromatography",
+    "to": "Antibody Facility",
+    "value": 1
+  },
+  {
+    "from": "Zerial",
+    "to": "Myers",
+    "value": 2
+  },
+  {
+    "from": "Transgenic Core Facility",
+    "to": "Huttner",
+    "value": 5
+  },
+  {
+    "from": "Shevchenko",
+    "to": "Kurzchalia",
+    "value": 4
+  },
+  {
+    "from": "Fish Facility",
+    "to": "DNA Sequencing",
+    "value": 3
+  },
+  {
+    "from": "Zechner",
+    "to": "Honigmann",
+    "value": 1
+  },
+  {
+    "from": "Norden",
+    "to": "Media Technology and Outreach",
+    "value": 3
+  },
+  {
+    "from": "Jug",
+    "to": "Fish Facility",
+    "value": 2
+  },
+  {
+    "from": "Zerial",
+    "to": "Technology Development Studio TDS",
+    "value": 12
+  },
+  {
+    "from": "Technology Development Studio TDS",
+    "to": "Myers",
+    "value": 1
+  },
+  {
+    "from": "Rink",
+    "to": "Media Technology and Outreach",
+    "value": 1
+  },
+  {
+    "from": "Image Processing Facility",
+    "to": "Fish Facility",
+    "value": 2
+  },
+  {
+    "from": "Pigino",
+    "to": "Mass Spectrometry",
+    "value": 1
+  },
+  {
+    "from": "Light Microscopy Facility",
+    "to": "Chromatography",
+    "value": 7
+  },
+  {
+    "from": "Tang",
+    "to": "Light Microscopy Facility",
+    "value": 3
+  },
+  {
+    "from": "Zechner",
+    "to": "Vastenhouw",
+    "value": 1
+  },
+  {
+    "from": "Norden",
+    "to": "Light Microscopy Facility",
+    "value": 12
+  },
+  {
+    "from": "EM Facility",
+    "to": "Brugues",
+    "value": 3
+  },
+  {
+    "from": "Rink",
+    "to": "Light Microscopy Facility",
+    "value": 5
+  },
+  {
+    "from": "Shevchenko",
+    "to": "Chromatography",
+    "value": 1
+  },
+  {
+    "from": "Scientific Computing Facility",
+    "to": "Honigmann",
+    "value": 1
+  },
+  {
+    "from": "Light Microscopy Facility",
+    "to": "Alberti",
+    "value": 19
+  },
+  {
+    "from": "Treutlein",
+    "to": "Light Microscopy Facility",
+    "value": 2
+  },
+  {
+    "from": "Scientific Computing Facility",
+    "to": "Eaton",
+    "value": 4
+  },
+  {
+    "from": "Howard",
+    "to": "Diez",
+    "value": 1
+  },
+  {
+    "from": "Fish Facility",
+    "to": "Biomedical Services",
+    "value": 2
+  },
+  {
+    "from": "Protein Expression",
+    "to": "Kreysing",
+    "value": 3
+  },
+  {
+    "from": "Knust",
+    "to": "Antibody Facility",
+    "value": 4
+  },
+  {
+    "from": "Media Technology and Outreach",
+    "to": "Alberti",
+    "value": 1
+  },
+  {
+    "from": "Kurzchalia",
+    "to": "Antibody Facility",
+    "value": 2
+  },
+  {
+    "from": "Light Microscopy Facility",
+    "to": "FACS Facility",
+    "value": 13
+  },
+  {
+    "from": "FACS Facility",
+    "to": "Antibody Facility",
+    "value": 1
+  },
+  {
+    "from": "Simons",
+    "to": "Light Microscopy Facility",
+    "value": 1
+  },
+  {
+    "from": "Light Microscopy Facility",
+    "to": "Kurzchalia",
+    "value": 4
+  },
+  {
+    "from": "Nadler",
+    "to": "Light Microscopy Facility",
+    "value": 3
+  },
+  {
+    "from": "Hyman",
+    "to": "Grill",
+    "value": 7
+  },
+  {
+    "from": "Vastenhouw",
+    "to": "Technology Development Studio TDS",
+    "value": 1
+  },
+  {
+    "from": "Scientific Computing Facility",
+    "to": "Myers",
+    "value": 7
+  },
+  {
+    "from": "Pigino",
+    "to": "Alberti",
+    "value": 2
+  },
+  {
+    "from": "Light Microscopy Facility",
+    "to": "Genome Engineering Facility",
+    "value": 14
+  },
+  {
+    "from": "Diez",
+    "to": "Antibody Facility",
+    "value": 1
+  },
+  {
+    "from": "Yun",
+    "to": "Huisken",
+    "value": 1
+  },
+  {
+    "from": "Treutlein",
+    "to": "Antibody Facility",
+    "value": 1
+  },
+  {
+    "from": "Shevchenko",
+    "to": "Mass Spectrometry",
+    "value": 11
+  },
+  {
+    "from": "Alberti",
+    "to": "Advanced Imaging Facility",
+    "value": 1
+  },
+  {
+    "from": "Microarray DNA Facility",
+    "to": "Grill",
+    "value": 1
+  },
+  {
+    "from": "Vastenhouw",
+    "to": "Myers",
+    "value": 2
+  },
+  {
+    "from": "Kreysing",
+    "to": "Biomedical Services",
+    "value": 2
+  },
+  {
+    "from": "Genome Engineering Facility",
+    "to": "Antibody Facility",
+    "value": 2
+  },
+  {
+    "from": "Myers",
+    "to": "Eaton",
+    "value": 5
+  },
+  {
+    "from": "Pigino",
+    "to": "FACS Facility",
+    "value": 1
+  },
+  {
+    "from": "Fish Facility",
+    "to": "Computer Department",
+    "value": 3
+  },
+  {
+    "from": "DNA Sequencing",
+    "to": "Cell Technology",
+    "value": 3
+  },
+  {
+    "from": "Transgenic Core Facility",
+    "to": "EM Facility",
+    "value": 2
+  },
+  {
+    "from": "Shevchenko",
+    "to": "Rink",
+    "value": 1
+  },
+  {
+    "from": "Zerial",
+    "to": "Honigmann",
+    "value": 1
+  },
+  {
+    "from": "Transgenic Core Facility",
+    "to": "Protein Expression",
+    "value": 2
+  },
+  {
+    "from": "Technology Development Studio TDS",
+    "to": "Honigmann",
+    "value": 1
+  },
+  {
+    "from": "Kreysing",
+    "to": "Hiller",
+    "value": 1
+  },
+  {
+    "from": "Rink",
+    "to": "Antibody Facility",
+    "value": 2
+  },
+  {
+    "from": "Technology Development Studio TDS",
+    "to": "Eaton",
+    "value": 1
+  },
+  {
+    "from": "Tomancak",
+    "to": "Fish Facility",
+    "value": 3
+  },
+  {
+    "from": "Kreysing",
+    "to": "DNA Sequencing",
+    "value": 2
+  },
+  {
+    "from": "Hiller",
+    "to": "Cell Technology",
+    "value": 1
+  },
+  {
+    "from": "Media Technology and Outreach",
+    "to": "Hiller",
+    "value": 1
+  },
+  {
+    "from": "Office of Research Grants",
+    "to": "Antibody Facility",
+    "value": 1
+  },
+  {
+    "from": "Tomancak",
+    "to": "Protein Expression",
+    "value": 2
+  },
+  {
+    "from": "Myers",
+    "to": "Hyman",
+    "value": 1
+  },
+  {
+    "from": "Shevchenko",
+    "to": "Biomedical Services",
+    "value": 2
+  },
+  {
+    "from": "Scientific Computing Facility",
+    "to": "Office of Research Grants",
+    "value": 1
+  },
+  {
+    "from": "Tomancak",
+    "to": "EM Facility",
+    "value": 1
+  },
+  {
+    "from": "Media Technology and Outreach",
+    "to": "DNA Sequencing",
+    "value": 1
+  },
+  {
+    "from": "Myers",
+    "to": "Cell Technology",
+    "value": 1
+  },
+  {
+    "from": "Microarray DNA Facility",
+    "to": "Light Microscopy Facility",
+    "value": 6
+  },
+  {
+    "from": "Light Microscopy Facility",
+    "to": "Hiller",
+    "value": 2
+  },
+  {
+    "from": "Light Microscopy Facility",
+    "to": "DNA Sequencing",
+    "value": 15
+  },
+  {
+    "from": "Zerial",
+    "to": "Nadler",
+    "value": 1
+  },
+  {
+    "from": "Zechner",
+    "to": "Tang",
+    "value": 2
+  },
+  {
+    "from": "Zechner",
+    "to": "Norden",
+    "value": 1
+  },
+  {
+    "from": "Pigino",
+    "to": "Computer Department",
+    "value": 2
+  },
+  {
+    "from": "Media Technology and Outreach",
+    "to": "Biomedical Services",
+    "value": 1
+  },
+  {
+    "from": "Mass Spectrometry",
+    "to": "Antibody Facility",
+    "value": 4
+  },
+  {
+    "from": "Technology Development Studio TDS",
+    "to": "Microarray DNA Facility",
+    "value": 3
+  },
+  {
+    "from": "Technology Development Studio TDS",
+    "to": "Hyman",
+    "value": 9
+  },
+  {
+    "from": "Scientific Computing Facility",
+    "to": "Diez",
+    "value": 3
+  },
+  {
+    "from": "Kreysing",
+    "to": "Genome Engineering Facility",
+    "value": 1
+  },
+  {
+    "from": "Protein Expression",
+    "to": "EM Facility",
+    "value": 3
+  },
+  {
+    "from": "Technology Development Studio TDS",
+    "to": "Cell Technology",
+    "value": 3
+  },
+  {
+    "from": "Zerial",
+    "to": "Microarray DNA Facility",
+    "value": 1
+  },
+  {
+    "from": "Light Microscopy Facility",
+    "to": "Biomedical Services",
+    "value": 33
+  },
+  {
+    "from": "Scientific Computing Facility",
+    "to": "Norden",
+    "value": 3
+  },
+  {
+    "from": "Hyman",
+    "to": "Advanced Imaging Facility",
+    "value": 1
+  },
+  {
+    "from": "Zerial",
+    "to": "Hyman",
+    "value": 2
+  },
+  {
+    "from": "Modes",
+    "to": "Huisken",
+    "value": 1
+  },
+  {
+    "from": "Tomancak",
+    "to": "Chromatography",
+    "value": 1
+  },
+  {
+    "from": "Protein Expression",
+    "to": "FACS Facility",
+    "value": 4
+  },
+  {
+    "from": "Grill",
+    "to": "Genome Engineering Facility",
+    "value": 1
+  },
+  {
+    "from": "Protein Expression",
+    "to": "Kurzchalia",
+    "value": 1
+  },
+  {
+    "from": "EM Facility",
+    "to": "Alberti",
+    "value": 5
+  },
+  {
+    "from": "Genome Engineering Facility",
+    "to": "Cell Technology",
+    "value": 3
+  },
+  {
+    "from": "Scientific Computing Facility",
+    "to": "Grill",
+    "value": 1
+  },
+  {
+    "from": "Light Microscopy Facility",
+    "to": "Kreysing",
+    "value": 7
+  },
+  {
+    "from": "Treutlein",
+    "to": "Cell Technology",
+    "value": 1
+  },
+  {
+    "from": "Protein Expression",
+    "to": "Alberti",
+    "value": 14
+  },
+  {
+    "from": "Huttner",
+    "to": "Genome Engineering Facility",
+    "value": 6
+  },
+  {
+    "from": "Hiller",
+    "to": "Antibody Facility",
+    "value": 2
+  },
+  {
+    "from": "Tomancak",
+    "to": "FACS Facility",
+    "value": 1
+  },
+  {
+    "from": "Protein Expression",
+    "to": "Chromatography",
+    "value": 11
+  },
+  {
+    "from": "Rink",
+    "to": "Microarray DNA Facility",
+    "value": 1
+  },
+  {
+    "from": "Transgenic Core Facility",
+    "to": "Scientific Computing Facility",
+    "value": 2
+  },
+  {
+    "from": "Mass Spectrometry",
+    "to": "Honigmann",
+    "value": 1
+  },
+  {
+    "from": "Tang",
+    "to": "Hyman",
+    "value": 2
+  },
+  {
+    "from": "Rink",
+    "to": "Cell Technology",
+    "value": 1
+  },
+  {
+    "from": "Simons",
+    "to": "Knust",
+    "value": 1
+  },
+  {
+    "from": "Light Microscopy Facility",
+    "to": "Brugues",
+    "value": 4
+  },
+  {
+    "from": "Jug",
+    "to": "Genome Engineering Facility",
+    "value": 1
+  },
+  {
+    "from": "Hyman",
+    "to": "Howard",
+    "value": 1
+  },
+  {
+    "from": "DNA Sequencing",
+    "to": "Antibody Facility",
+    "value": 3
+  },
+  {
+    "from": "Tomancak",
+    "to": "Alberti",
+    "value": 1
+  },
+  {
+    "from": "Scientific Computing Facility",
+    "to": "Media Technology and Outreach",
+    "value": 3
+  },
+  {
+    "from": "Honigmann",
+    "to": "Advanced Imaging Facility",
+    "value": 1
+  },
+  {
+    "from": "Scientific Computing Facility",
+    "to": "Light Microscopy Facility",
+    "value": 37
+  },
+  {
+    "from": "Transgenic Core Facility",
+    "to": "FACS Facility",
+    "value": 5
+  },
+  {
+    "from": "Jug",
+    "to": "Biomedical Services",
+    "value": 1
+  },
+  {
+    "from": "Modes",
+    "to": "Light Microscopy Facility",
+    "value": 1
+  },
+  {
+    "from": "Tomancak",
+    "to": "Scientific Computing Facility",
+    "value": 7
+  },
+  {
+    "from": "Sbalzarini",
+    "to": "Knust",
+    "value": 1
+  },
+  {
+    "from": "Myers",
+    "to": "Antibody Facility",
+    "value": 1
+  },
+  {
+    "from": "Office of Research Grants",
+    "to": "Microarray DNA Facility",
+    "value": 1
+  },
+  {
+    "from": "Vastenhouw",
+    "to": "Media Technology and Outreach",
+    "value": 1
+  },
+  {
+    "from": "Huttner",
+    "to": "Biomedical Services",
+    "value": 23
+  },
+  {
+    "from": "Tomancak",
+    "to": "Computer Department",
+    "value": 5
+  },
+  {
+    "from": "Vastenhouw",
+    "to": "Light Microscopy Facility",
+    "value": 4
+  },
+  {
+    "from": "Zerial",
+    "to": "Antibody Facility",
+    "value": 2
+  },
+  {
+    "from": "Media Technology and Outreach",
+    "to": "Huttner",
+    "value": 1
+  },
+  {
+    "from": "Zechner",
+    "to": "Light Microscopy Facility",
+    "value": 3
+  },
+  {
+    "from": "Biomedical Services",
+    "to": "Antibody Facility",
+    "value": 4
+  },
+  {
+    "from": "Hyman",
+    "to": "Diez",
+    "value": 2
+  },
+  {
+    "from": "Technology Development Studio TDS",
+    "to": "Pigino",
+    "value": 1
+  },
+  {
+    "from": "EM Facility",
+    "to": "Computer Department",
+    "value": 2
+  },
+  {
+    "from": "Technology Development Studio TDS",
+    "to": "Antibody Facility",
+    "value": 1
+  },
+  {
+    "from": "Huttner",
+    "to": "DNA Sequencing",
+    "value": 5
+  },
+  {
+    "from": "Light Microscopy Facility",
+    "to": "Eckmann",
+    "value": 1
+  },
+  {
+    "from": "Light Microscopy Facility",
+    "to": "Huttner",
+    "value": 24
+  },
+  {
+    "from": "Pigino",
+    "to": "EM Facility",
+    "value": 6
+  },
+  {
+    "from": "Scientific Computing Facility",
+    "to": "Advanced Imaging Facility",
+    "value": 2
+  },
+  {
+    "from": "Protein Expression",
+    "to": "Computer Department",
+    "value": 2
+  },
+  {
+    "from": "Huttner",
+    "to": "Hiller",
+    "value": 2
+  },
+  {
+    "from": "Light Microscopy Facility",
+    "to": "Jug",
+    "value": 4
+  },
+  {
+    "from": "Mass Spectrometry",
+    "to": "Cell Technology",
+    "value": 2
+  },
+  {
+    "from": "Light Microscopy Facility",
+    "to": "Image Processing Facility",
+    "value": 3
+  },
+  {
+    "from": "Hyman",
+    "to": "Alberti",
+    "value": 22
+  },
+  {
+    "from": "Modes",
+    "to": "Fish Facility",
+    "value": 2
+  },
+  {
+    "from": "Technology Development Studio TDS",
+    "to": "Shevchenko",
+    "value": 2
+  },
+  {
+    "from": "Genome Engineering Facility",
+    "to": "DNA Sequencing",
+    "value": 5
+  },
+  {
+    "from": "Scientific Computing Facility",
+    "to": "Fish Facility",
+    "value": 5
+  },
+  {
+    "from": "Cell Technology",
+    "to": "Alberti",
+    "value": 1
+  },
+  {
+    "from": "Myers",
+    "to": "Kreysing",
+    "value": 2
+  },
+  {
+    "from": "Microarray DNA Facility",
+    "to": "FACS Facility",
+    "value": 2
+  },
+  {
+    "from": "Chromatography",
+    "to": "Alberti",
+    "value": 6
+  },
+  {
+    "from": "Microarray DNA Facility",
+    "to": "Alberti",
+    "value": 1
+  },
+  {
+    "from": "Vastenhouw",
+    "to": "Fish Facility",
+    "value": 4
+  },
+  {
+    "from": "Zerial",
+    "to": "Shevchenko",
+    "value": 3
+  },
+  {
+    "from": "Protein Expression",
+    "to": "Myers",
+    "value": 3
+  },
+  {
+    "from": "Hyman",
+    "to": "FACS Facility",
+    "value": 4
+  },
+  {
+    "from": "Treutlein",
+    "to": "DNA Sequencing",
+    "value": 1
+  },
+  {
+    "from": "Sbalzarini",
+    "to": "Rink",
+    "value": 1
+  },
+  {
+    "from": "Knust",
+    "to": "Computer Department",
+    "value": 1
+  },
+  {
+    "from": "Rink",
+    "to": "DNA Sequencing",
+    "value": 3
+  },
+  {
+    "from": "Mass Spectrometry",
+    "to": "Genome Engineering Facility",
+    "value": 4
+  },
+  {
+    "from": "Tomancak",
+    "to": "Technology Development Studio TDS",
+    "value": 2
+  },
+  {
+    "from": "Protein Expression",
+    "to": "Howard",
+    "value": 1
+  },
+  {
+    "from": "Technology Development Studio TDS",
+    "to": "Kreysing",
+    "value": 2
+  },
+  {
+    "from": "Genome Engineering Facility",
+    "to": "Biomedical Services",
+    "value": 7
+  },
+  {
+    "from": "Rink",
+    "to": "Hiller",
+    "value": 1
+  },
+  {
+    "from": "Zechner",
+    "to": "Fish Facility",
+    "value": 1
+  },
+  {
+    "from": "Kreysing",
+    "to": "Antibody Facility",
+    "value": 1
+  },
+  {
+    "from": "Microarray DNA Facility",
+    "to": "Chromatography",
+    "value": 2
+  },
+  {
+    "from": "Treutlein",
+    "to": "Biomedical Services",
+    "value": 2
+  },
+  {
+    "from": "Jug",
+    "to": "Eaton",
+    "value": 1
+  },
+  {
+    "from": "Sbalzarini",
+    "to": "Genome Engineering Facility",
+    "value": 1
+  },
+  {
+    "from": "Tomancak",
+    "to": "Myers",
+    "value": 8
+  },
+  {
+    "from": "Hyman",
+    "to": "Chromatography",
+    "value": 6
+  },
+  {
+    "from": "Pigino",
+    "to": "Light Microscopy Facility",
+    "value": 3
+  },
+  {
+    "from": "Tomancak",
+    "to": "Norden",
+    "value": 2
+  },
+  {
+    "from": "Zechner",
+    "to": "Tomancak",
+    "value": 1
+  },
+  {
+    "from": "Treutlein",
+    "to": "Genome Engineering Facility",
+    "value": 1
+  },
+  {
+    "from": "Light Microscopy Facility",
+    "to": "Antibody Facility",
+    "value": 14
+  },
+  {
+    "from": "Sbalzarini",
+    "to": "Biomedical Services",
+    "value": 2
+  },
+  {
+    "from": "Tomancak",
+    "to": "Huisken",
+    "value": 2
+  },
+  {
+    "from": "Technology Development Studio TDS",
+    "to": "Huttner",
+    "value": 1
+  },
+  {
+    "from": "Transgenic Core Facility",
+    "to": "Technology Development Studio TDS",
+    "value": 3
+  },
+  {
+    "from": "Office of Research Grants",
+    "to": "DNA Sequencing",
+    "value": 1
+  },
+  {
+    "from": "FACS Facility",
+    "to": "Alberti",
+    "value": 3
+  },
+  {
+    "from": "Zerial",
+    "to": "Jug",
+    "value": 1
+  },
+  {
+    "from": "Zechner",
+    "to": "Protein Expression",
+    "value": 1
+  },
+  {
+    "from": "Mass Spectrometry",
+    "to": "Biomedical Services",
+    "value": 4
+  },
+  {
+    "from": "Knust",
+    "to": "FACS Facility",
+    "value": 1
+  },
+  {
+    "from": "Zerial",
+    "to": "Huttner",
+    "value": 1
+  },
+  {
+    "from": "Transgenic Core Facility",
+    "to": "Myers",
+    "value": 1
+  },
+  {
+    "from": "Vastenhouw",
+    "to": "Protein Expression",
+    "value": 2
+  },
+  {
+    "from": "Myers",
+    "to": "Jug",
+    "value": 13
+  },
+  {
+    "from": "Tomancak",
+    "to": "Sbalzarini",
+    "value": 3
+  },
+  {
+    "from": "FACS Facility",
+    "to": "Chromatography",
+    "value": 1
+  },
+  {
+    "from": "Brugues",
+    "to": "Antibody Facility",
+    "value": 1
+  },
+  {
+    "from": "Myers",
+    "to": "Huttner",
+    "value": 1
+  },
+  {
+    "from": "Mass Spectrometry",
+    "to": "DNA Sequencing",
+    "value": 1
+  },
+  {
+    "from": "Scientific Computing Facility",
+    "to": "Protein Expression",
+    "value": 11
+  },
+  {
+    "from": "Microarray DNA Facility",
+    "to": "Computer Department",
+    "value": 2
+  },
+  {
+    "from": "Protein Expression",
+    "to": "Diez",
+    "value": 6
+  },
+  {
+    "from": "Huttner",
+    "to": "Cell Technology",
+    "value": 1
+  },
+  {
+    "from": "Mass Spectrometry",
+    "to": "Hiller",
+    "value": 1
+  },
+  {
+    "from": "Scientific Computing Facility",
+    "to": "EM Facility",
+    "value": 2
+  },
+  {
+    "from": "Rink",
+    "to": "Jug",
+    "value": 1
+  },
+  {
+    "from": "DNA Sequencing",
+    "to": "Biomedical Services",
+    "value": 8
+  },
+  {
+    "from": "Norden",
+    "to": "Jug",
+    "value": 1
+  },
+  {
+    "from": "Eaton",
+    "to": "Chromatography",
+    "value": 1
+  },
+  {
+    "from": "Norden",
+    "to": "Image Processing Facility",
+    "value": 2
+  },
+  {
+    "from": "Rink",
+    "to": "Huttner",
+    "value": 1
+  },
+  {
+    "from": "Light Microscopy Facility",
+    "to": "Eaton",
+    "value": 5
+  },
+  {
+    "from": "Technology Development Studio TDS",
+    "to": "Mass Spectrometry",
+    "value": 1
+  },
+  {
+    "from": "Norden",
+    "to": "Huttner",
+    "value": 2
+  },
+  {
+    "from": "Scientific Computing Facility",
+    "to": "Alberti",
+    "value": 8
+  },
+  {
+    "from": "Light Microscopy Facility",
+    "to": "Honigmann",
+    "value": 3
+  },
+  {
+    "from": "Scientific Computing Facility",
+    "to": "FACS Facility",
+    "value": 4
+  },
+  {
+    "from": "Transgenic Core Facility",
+    "to": "Light Microscopy Facility",
+    "value": 7
+  },
+  {
+    "from": "Scientific Computing Facility",
+    "to": "Kurzchalia",
+    "value": 1
+  },
+  {
+    "from": "Myers",
+    "to": "Genome Engineering Facility",
+    "value": 2
+  },
+  {
+    "from": "Transgenic Core Facility",
+    "to": "Media Technology and Outreach",
+    "value": 1
+  },
+  {
+    "from": "Protein Expression",
+    "to": "Grill",
+    "value": 4
+  },
+  {
+    "from": "Zerial",
+    "to": "Mass Spectrometry",
+    "value": 5
+  },
+  {
+    "from": "Computer Department",
+    "to": "Chromatography",
+    "value": 2
+  },
+  {
+    "from": "Hiller",
+    "to": "Biomedical Services",
+    "value": 4
+  },
+  {
+    "from": "FACS Facility",
+    "to": "EM Facility",
+    "value": 3
+  },
+  {
+    "from": "Zerial",
+    "to": "Genome Engineering Facility",
+    "value": 2
+  },
+  {
+    "from": "Technology Development Studio TDS",
+    "to": "Rink",
+    "value": 2
+  },
+  {
+    "from": "Kurzchalia",
+    "to": "EM Facility",
+    "value": 3
+  },
+  {
+    "from": "Zerial",
+    "to": "Treutlein",
+    "value": 1
+  },
+  {
+    "from": "Kreysing",
+    "to": "Hyman",
+    "value": 1
+  },
+  {
+    "from": "Knust",
+    "to": "EM Facility",
+    "value": 2
+  },
+  {
+    "from": "Scientific Computing Facility",
+    "to": "Chromatography",
+    "value": 3
+  },
+  {
+    "from": "Hiller",
+    "to": "DNA Sequencing",
+    "value": 9
+  },
+  {
+    "from": "Treutlein",
+    "to": "Huttner",
+    "value": 3
+  },
+  {
+    "from": "Shevchenko",
+    "to": "Eaton",
+    "value": 5
+  },
+  {
+    "from": "Kreysing",
+    "to": "Cell Technology",
+    "value": 2
+  },
+  {
+    "from": "Technology Development Studio TDS",
+    "to": "Genome Engineering Facility",
+    "value": 3
+  },
+  {
+    "from": "Zerial",
+    "to": "Rink",
+    "value": 1
+  },
+  {
+    "from": "Mass Spectrometry",
+    "to": "Kreysing",
+    "value": 1
+  },
+  {
+    "from": "Honigmann",
+    "to": "Alberti",
+    "value": 1
+  },
+  {
+    "from": "Tomancak",
+    "to": "Grill",
+    "value": 1
+  },
+  {
+    "from": "Myers",
+    "to": "DNA Sequencing",
+    "value": 6
+  },
+  {
+    "from": "Sbalzarini",
+    "to": "Jug",
+    "value": 1
+  },
+  {
+    "from": "Grill",
+    "to": "Antibody Facility",
+    "value": 1
+  },
+  {
+    "from": "Tomancak",
+    "to": "Advanced Imaging Facility",
+    "value": 1
+  },
+  {
+    "from": "Media Technology and Outreach",
+    "to": "Hyman",
+    "value": 1
+  },
+  {
+    "from": "Knust",
+    "to": "Fish Facility",
+    "value": 4
+  },
+  {
+    "from": "Shevchenko",
+    "to": "Knust",
+    "value": 2
+  },
+  {
+    "from": "Shevchenko",
+    "to": "Nadler",
+    "value": 3
+  },
+  {
+    "from": "Myers",
+    "to": "Hiller",
+    "value": 5
+  },
+  {
+    "from": "Technology Development Studio TDS",
+    "to": "Biomedical Services",
+    "value": 4
+  },
+  {
+    "from": "Protein Expression",
+    "to": "Media Technology and Outreach",
+    "value": 1
+  },
+  {
+    "from": "Light Microscopy Facility",
+    "to": "Hyman",
+    "value": 22
+  },
+  {
+    "from": "Light Microscopy Facility",
+    "to": "Cell Technology",
+    "value": 3
+  },
+  {
+    "from": "Huisken",
+    "to": "Brugues",
+    "value": 1
+  },
+  {
+    "from": "Protein Expression",
+    "to": "Light Microscopy Facility",
+    "value": 28
+  },
+  {
+    "from": "Mass Spectrometry",
+    "to": "Huttner",
+    "value": 2
+  },
+  {
+    "from": "Zerial",
+    "to": "Biomedical Services",
+    "value": 9
+  },
+  {
+    "from": "Simons",
+    "to": "Shevchenko",
+    "value": 1
+  },
+  {
+    "from": "Technology Development Studio TDS",
+    "to": "DNA Sequencing",
+    "value": 3
+  },
+  {
+    "from": "Eckmann",
+    "to": "Antibody Facility",
+    "value": 3
+  },
+  {
+    "from": "Protein Expression",
+    "to": "Advanced Imaging Facility",
+    "value": 1
+  },
+  {
+    "from": "Huttner",
+    "to": "Antibody Facility",
+    "value": 3
+  },
+  {
+    "from": "Media Technology and Outreach",
+    "to": "Knust",
+    "value": 2
+  },
+  {
+    "from": "Hiller",
+    "to": "Genome Engineering Facility",
+    "value": 1
+  },
+  {
+    "from": "Modes",
+    "to": "Computer Department",
+    "value": 1
+  },
+  {
+    "from": "Tang",
+    "to": "Kreysing",
+    "value": 1
+  },
+  {
+    "from": "Scientific Computing Facility",
+    "to": "Computer Department",
+    "value": 8
+  },
+  {
+    "from": "Vastenhouw",
+    "to": "Scientific Computing Facility",
+    "value": 2
+  },
+  {
+    "from": "Technology Development Studio TDS",
+    "to": "Hiller",
+    "value": 2
+  },
+  {
+    "from": "Shevchenko",
+    "to": "Cell Technology",
+    "value": 1
+  },
+  {
+    "from": "Myers",
+    "to": "Biomedical Services",
+    "value": 3
+  },
+  {
+    "from": "Hyman",
+    "to": "EM Facility",
+    "value": 4
+  },
+  {
+    "from": "Light Microscopy Facility",
+    "to": "Knust",
+    "value": 18
+  },
+  {
+    "from": "Tomancak",
+    "to": "Media Technology and Outreach",
+    "value": 2
+  },
+  {
+    "from": "Library",
+    "to": "Eaton",
+    "value": 1
+  },
+  {
+    "from": "Image Processing Facility",
+    "to": "Antibody Facility",
+    "value": 1
+  },
+  {
+    "from": "Tomancak",
+    "to": "Light Microscopy Facility",
+    "value": 14
+  },
+  {
+    "from": "Scientific Computing Facility",
+    "to": "Modes",
+    "value": 1
+  }
+]
